@@ -24,7 +24,7 @@
     "@types/sortablejs": "1.15.8",
     "@typescript-eslint/parser": "8.35.1",
     "@uupaa/dynamic-import-polyfill": "1.0.2",
-    "@vitest/coverage-v8": "3.2.4",
+    "@vitest/coverage-v8": "4.0.0",
     "autoprefixer": "10.4.21",
     "babel-loader": "10.0.0",
     "clean-webpack-plugin": "4.0.0",
